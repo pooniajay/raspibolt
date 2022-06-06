@@ -36,6 +36,7 @@ has_toc: false
 
 #### *GUI - Desktop*
 * **[Zap](zap-desktop.md)** - a cross platform Lightning Network wallet focused on user experience and ease of use
+* **[Alby](https://getalby.com/)** - an open-source browser wallet for the Bitcoin Lightning Network. The extension allows to send and receive payments and to access Bitcoin Lightning apps seamlessly
 
 #### *GUI - Mobile*
 * **[Zap (iOS)](zap-ios.md)** - a neat interface to manage peers & channels, make payments and create invoices
